@@ -54,13 +54,5 @@ Hubbard *X*-operators makes even the formulation of the equation of motion techn
 demanding — but it is the one route that keeps the derivation both microscopic and honest
 about the strongly correlated nature of the system. This direction is being actively pursued.
 
-The work also uncovered a structural subtlety: the Hubbard–Stratonovich transformation
-introduces a bosonic auxiliary field that couples to the projected fermions in a
-gauge-like manner. In the $\pi$-flux mean-field configuration, the low-energy fermionic
-spectrum has Dirac nodes, and integrating out the fermions then generates a parity
-anomaly — a Chern–Simons term in the effective action for the auxiliary field — as a
-consequence of any gauge-invariant regularisation in $(2+1)$ dimensions. The implications
-of this term for the structure of the superconducting free energy were examined in the
-thesis.
-
-M.Sc. thesis, Indian Institute of Space Science and Technology, March 2025.
+M.S. thesis, Indian Institute of Space Science and Technology, March 2025.
+[Download thesis (PDF)]({{ '/assets/pdf/Apoorv_Srivastava_Thesis.pdf' | relative_url }})
