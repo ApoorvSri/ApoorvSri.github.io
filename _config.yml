@@ -11,9 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Apoorv Srivastava — non-equilibrium quantum many-body physics, kinetically constrained
   dynamics and ergodicity breaking.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text:
 
 keywords: condensed matter theory, non-equilibrium dynamics, Hilbert space fragmentation, fractons, quantum many-body physics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
