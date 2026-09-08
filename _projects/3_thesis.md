@@ -55,4 +55,4 @@ demanding — but it is the one route that keeps the derivation both microscopic
 about the strongly correlated nature of the system. This direction is being actively pursued.
 
 M.S. thesis, Indian Institute of Space Science and Technology, March 2025.
-[Download thesis (PDF)]({{ '/assets/pdf/Apoorv_Srivastava_Thesis.pdf' | relative_url }})
+[Download thesis (PDF)]({{ '/assets/pdf/SC20B146MastersThesis Final (1).pdf' | relative_url }})
