@@ -22,21 +22,13 @@ latest_posts:
   enabled: false
 ---
 
-I work on the non-equilibrium dynamics of interacting quantum many-body systems, mostly on what
-happens when conservation laws are strong enough to stop a system from coming to equilibrium at
-all. Kinetic constraints and dipole conservation can shatter a Hilbert space into disconnected
-pieces without any disorder, and I am interested in what survives of that structure when the
-system is driven, opened up to an environment, or taken to the classical continuum.
+I am a student of quantum mechanics, more specifically condensed matter physics, and what draws me in is emergent phenomena — how collective behaviour arises in quantum systems from rules that look simple written down.
 
-I finished a dual degree with a B.Tech in Engineering Physics and M.S. in Solid State Physics at IIST in 2025. 
-I currently work as a Scientist at ISRO's Laboratory for Electro-Optical Systems in
-Bangalore, where I am a member of the Thin Film Division where I am involved in the design and production of 
-Optical Filters for various Scientific Payload and some Lithography activities. 
-I continue my work in Condensed Matter Physics alongside my job.
+I have worked across a few areas so far: driven constrained quantum systems, classical continuum fractons, and strongly correlated electron systems. Those are described on the research and other projects pages.
 
-My master's thesis, supervised by Prof. T. V. Ramakrishnan, took a different route into the same
-broad question — deriving a Ginzburg–Landau-like theory for strongly correlated superconductors
-without the usual approximations on the order parameter.
+My latest fling is with non-equilibrium condensed matter physics, and I can trace it to a single paper — Andrea Cavalleri's [review](https://www.tandfonline.com/doi/abs/10.1080/00107514.2017.1406623) on light-induced superconductivity. That an external field can be used to manipulate the properties of a material, and drive it into phases it does not host in equilibrium, is a striking thing to sit with. I am now deeply interested in the formalism of non-equilibrium condensed matter at different scales, and in the range of methods used to study such systems.
+
+I finished a dual degree in Engineering Physics and Solid State Physics at IIST in 2025. I now work as a Scientist at ISRO's Laboratory for Electro-Optical Systems in Bangalore, in the Thin Film Division, where I design and produce optical filters for scientific payloads and work on lithography. I keep doing condensed matter theory alongside it.
 
 ---
 
