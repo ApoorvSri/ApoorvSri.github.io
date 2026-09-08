@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Two projects I have spent most of my time on.
+description: The projects I have spent most of my time on.
 nav: true
 nav_order: 1
 display_categories: [research]
