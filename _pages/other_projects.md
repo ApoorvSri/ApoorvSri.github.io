@@ -2,7 +2,7 @@
 layout: page
 title: other projects
 permalink: /other-projects/
-description: Shorter projects and things I worked on as a student.
+description: Shorter projects and things I worked on as a student. (Coming Soon)
 nav: true
 nav_order: 3
 horizontal: false
