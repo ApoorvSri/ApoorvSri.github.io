@@ -17,7 +17,7 @@ stay there. The natural objection is that this is an artefact of dilution. Pack 
 more tightly, the reasoning goes, and there will always be a neighbour within reach, collective
 motion will take over, and ordinary statistical mechanics should return. This is the question I
 have been working on with
-[Abhishodh Prakash]([https://www.hri.res.in/](https://sites.google.com/view/abhishodh) at HRI, together with Ylias Sadki and
+[Abhishodh Prakash](https://sites.google.com/view/abhishodh) at HRI, together with Ylias Sadki and
 [Shivaji Sondhi](https://www.physics.ox.ac.uk/our-people/sondhi) at Oxford.
 
 Density turns out to be the wrong knob. What controls the long-time fate of the system is whether
