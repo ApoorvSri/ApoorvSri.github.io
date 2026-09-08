@@ -6,7 +6,7 @@ subtitle: Scientist/Engineer-'SC' , <a href="https://www.isro.gov.in/">ISRO</a> 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Prf_PIC.jpg
   image_circular: false
   more_info: >
     <p>Laboratory for Electro-Optical Systems</p>
