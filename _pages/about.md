@@ -49,5 +49,5 @@ co-advised by Prof. S. R. Hassan (IMSc) and Prof. N. S. Vidhyadhiraja (JNCASR).
 
 **2023** — B.Tech Project at Raman Research Institute, Bangalore, with Dr. Shovan Dutta.
 
-**2020 – 2025** — Dual degree (B.Tech. Engineering Physics, M.Sc. Solid State Physics),
+**2020 – 2025** — Dual degree (B.Tech. Engineering Physics, M.S. Solid State Physics),
 Indian Institute of Space Science and Technology, Thiruvananthapuram.
