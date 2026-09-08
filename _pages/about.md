@@ -44,7 +44,7 @@ without the usual approximations on the order parameter.
 
 **2025 —** Scientist/Engineer-'SC', Laboratory for Electro-Optical Systems (LEOS), ISRO, Bangalore.
 
-**2024 – 2025** — Master's thesis with Prof. T. V. Ramakrishnan (JNCASR / IISc Bangalore),
+**2024 – 2025** — Master's thesis with Prof. T. V. Ramakrishnan(https://en.wikipedia.org/wiki/T._V._Ramakrishnan) (JNCASR / IISc Bangalore),
 co-advised by Prof. S. R. Hassan (IMSc) and Prof. N. S. Vidhyadhiraja (JNCASR).
 
 **2023** — B.Tech Project at Raman Research Institute, Bangalore, with Dr. Shovan Dutta.
