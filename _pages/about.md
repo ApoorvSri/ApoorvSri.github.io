@@ -22,9 +22,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a student of quantum mechanics, more specifically condensed matter physics, and what draws me in is emergent phenomena — how collective behaviour arises in quantum systems from rules that look simple written down.
+I am a student of quantum mechanics, more specifically condensed matter physics, and what draws me in is emergent phenomena — how complex collective behaviour emerges from the simple microscopic rules governing quantum systems.
 
-I have worked across a few areas so far: driven constrained quantum systems, classical continuum fractons, and strongly correlated electron systems. Those are described on the research and other projects pages.
+I have worked across a few areas so far: driven constrained quantum systems, classical continuum fractons, and strongly correlated electron systems, which you can find described in more detail on the research pages.
 
 My latest fling is with non-equilibrium condensed matter physics, and I can trace it to a single paper — Andrea Cavalleri's [review](https://www.tandfonline.com/doi/abs/10.1080/00107514.2017.1406623) on light-induced superconductivity. That an external field can be used to manipulate the properties of a material, and drive it into phases it does not host in equilibrium, is a striking thing to sit with. I am interested in the formalism of non-equilibrium condensed matter in the range of methods used to study such systems at different scales, and in understanding emergent properties of such driven systems.
 
