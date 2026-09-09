@@ -11,6 +11,10 @@ nav_order: 5
   <i class="fa-solid fa-file-pdf fa-xl"></i> Download CV (PDF)
 </a>
 
+<a href="{{ '/assets/pdf/Transcript.pdf' | relative_url }}" class="btn btn-lg z-depth-0" role="button" target="_blank">
+  <i class="fa-solid fa-file-pdf fa-xl"></i> Transcript (PDF)
+</a>
+
 <br><br>
 
 Last updated {{ site.time | date: "%B %Y" }}.
