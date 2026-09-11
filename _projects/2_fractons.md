@@ -22,16 +22,8 @@ have been working on with
 
 Density turns out to be the wrong knob. What controls the long-time fate of the system is whether
 the function setting the inertial reach vanishes exactly beyond some distance or merely becomes
-very small. If it vanishes exactly, clusters that drift apart are cut off from each other
-permanently, and the system keeps a memory of its initial configuration at every density we could
-reach. If instead the reach decays smoothly — exponentially, or as a power law — then arbitrarily
-weak long-range coupling is enough to reconnect the clusters, and the system eventually explores
-its phase space after a transient that can be enormously long. Density sets how long you have to
-wait; it does not change the answer.
+very small.
 
-There is a second ingredient. The clustering relies on momentum differences growing without bound,
-which is possible only in the continuum. Replacing the kinetic term with one bounded above, as a
-lattice would, restores ergodicity even when the reach is exactly finite. Machian clustering is
-therefore not a lattice phenomenon in disguise.
+More coming soon!
 
 Manuscript in preparation.
